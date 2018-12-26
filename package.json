@@ -1,0 +1,15 @@
+{
+  "name": "outdated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bash outdated.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yarn-outdated-formatter": "git+https://github.com/masawada/yarn-outdated-formatter.git"
+  }
+}
